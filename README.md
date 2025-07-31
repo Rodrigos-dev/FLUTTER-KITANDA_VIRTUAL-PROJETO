@@ -16,19 +16,18 @@ Aplicativo desenvolvido com **Flutter** simulando uma loja virtual para uma kita
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/dfa74217-f0a0-45b9-9b3f-1ea21ba3887a" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/388a6894-7444-45a2-9d41-07147db94d5f" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/cde52359-e74a-4d9d-a8cb-d1fa4b418632" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/ceac486c-79b8-46fd-8ddc-b7b033f2fa1c" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/bb0300aa-3feb-4541-8a2d-17b02ddddbe7" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/663829fc-853e-47b3-af57-0e9fa93068a7" width="50"/></td>
+    <td><img src="https://github.com/user-attachments/assets/dfa74217-f0a0-45b9-9b3f-1ea21ba3887a" width="80"/></td>
+    <td><img src="https://github.com/user-attachments/assets/388a6894-7444-45a2-9d41-07147db94d5f" width="80"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cde52359-e74a-4d9d-a8cb-d1fa4b418632" width="80"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ceac486c-79b8-46fd-8ddc-b7b033f2fa1c" width="80"/></td>
+    <td><img src="https://github.com/user-attachments/assets/bb0300aa-3feb-4541-8a2d-17b02ddddbe7" width="80"/></td> 
   </tr>
   <tr>    
-    <td><img src="https://github.com/user-attachments/assets/3cad653c-6692-4b59-8bf8-03b255653456" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/a9cf3021-83e5-4d86-99a7-33a4ffe3317d" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/1d57b73d-0bee-4668-b9eb-59e648e73755" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/2138ec56-6252-4ebd-80d6-7734e6fca689" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/1721a69c-4b53-4403-a2f4-b93b9334175f" width="50"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3cad653c-6692-4b59-8bf8-03b255653456" width="80"/></td>
+    <td><img src="https://github.com/user-attachments/assets/a9cf3021-83e5-4d86-99a7-33a4ffe3317d" width="80"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1d57b73d-0bee-4668-b9eb-59e648e73755" width="80"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2138ec56-6252-4ebd-80d6-7734e6fca689" width="80"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1721a69c-4b53-4403-a2f4-b93b9334175f" width="80"/></td>
   </tr>  
 </table>
 
